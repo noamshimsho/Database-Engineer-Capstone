@@ -1,1 +1,1 @@
-setting up repository for project
+This is the final project in the Database Engineer Capstone course.
